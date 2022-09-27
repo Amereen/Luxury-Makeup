@@ -1,0 +1,65 @@
+{
+  "Makeup":[
+    {
+      "id": 1,
+      "brand": "maybelline",
+      "name": "Maybelline Face Studio Master Hi-Light Light Booster Bronzer",
+      "price": "14.99",
+      "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/991799d3e70b8856686979f8ff6dcfe0_ra,w158,h184_pa,w158,h184.png",
+      "product_link": "https://well.ca/products/maybelline-face-studio-master_88837.html",
+      "description": "Maybelline Face Studio Master Hi-Light Light Boosting bronzer formula has an expert \nbalance of shade + shimmer illuminator for natural glow. Skin goes \nsoft-lit with zero glitz.\n\n\t\tFor Best Results: Brush over all shades in palette and gently sweep over \ncheekbones, brow bones, and temples, or anywhere light naturally touches\n the face.\n\n\t\t\n\t\n\n                    ",
+      "rating": 5.0,
+      "product_type": "bronzer"
+    },
+    {
+      "id": 2,
+      "brand": "maybelline",
+      "name": "Maybelline Fit Me Bronzer",
+      "price": "10.29",
+      "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d4f7d82b4858c622bb3c1cef07b9d850_ra,w158,h184_pa,w158,h184.png",
+      "product_link": "https://well.ca/products/maybelline-fit-me-bronzer_31265.html",
+      "description": "Why You'll Love It\n\nLightweight pigments blend easily and wear evenly\nProvides a natural, fade-proof bronzed color that leaves skin the way it was meant to be...fresh, breathing and natural\n\nFor Best Results: For soft, natural look, brush along cheekbone, sweeping upward.",
+      "rating": 4.5,
+      "product_type": "bronzer"
+    },
+    {
+    "id": 3,
+    "brand": "maybelline",
+    "name": "Maybelline Face Studio Master Hi-Light Light Booster Blush ",
+    "price": "14.99",
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e8c59b78ebeaec5c4b6aeba49a9ff0f6_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-face-studio-master_88836.html",
+    "description": "Maybelline Face Studio Master Hi-Light Light Boosting blush formula has an expert \nbalance of shade + shimmer illuminator for natural glow. Skin goes \nsoft-lit with zero glitz.\n\n\t\tFor Best Results: Brush over all shades in palette and gently sweep over \ncheekbones, brow bones, and temples, or anywhere light naturally touches\n the face.\n\n\t\t\n\t\n\n                    ",
+    "rating": 5.0,
+    "product_type": "blush"
+    },
+    {
+    "id": 4,
+    "brand": "maybelline",
+    "name": "Maybelline Dream Smooth Mousse Foundation",
+    "price": "14.79",
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/fb79e7facf701176d4113527c284613f_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-dream-smooth-mousse_28944.html",
+    "description": "Why You'll Love ItUnique cream-whipped foundation provides 100% baby-smooth perfection.\n\nSkin looks and feels hydrated for 14 hours - never rough or dry\nLightweight formula provides perfectly moisturizing coverage\nBlends seamlessly and feels fresh all-day\nOil-free, Fragrance-free, Dermatologist Tested, Allergy Tested, Non-comedogenic – won’t clog pores.\nSafe for sensitive skin\n\n ",
+    "rating": 3.8,
+    "product_type": "foundation"
+
+    },
+    {
+    "id": 5,
+    "brand": "maybelline",
+    "name": "Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow Leather",
+    "price": "8.99",
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/cf21d194ab14ee3c527d02682c358a7a_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-eye-studio-color-tattoo_95143.html",
+    "description": "\n                       \n\tSo rich. So creamy. Only Maybelline's cream gel eye shadow formula gets the look of couture leather so right!\n\t\t\n\t\t\t\n\t\t\t\tDare to wear Maybelline Color Tattoo leather 24HR long wear eye shadow.Features: Ink technology creates 24HR wear shadow for our most intense, long-lasting color saturationCream eye shadow formula glides on without creasing and keeps color vibrantOphthalmologist-tested.  Safe for sensitive eyes and contact lens wearers\n\t\tShade Range: \n\t\n\n                    \n                ",
+    "rating": 4.3,
+    "product_type": "eyeshadow"
+    }
+
+    ]
+    }
+   
+
+
+  
